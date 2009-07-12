@@ -291,3 +291,26 @@ Rendering rescues/layout (not_found)
 Processing MainController#index (for 127.0.0.1 at 2009-07-12 00:15:47) [GET]
 Rendering main/index
 Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-07-12 00:18:51) [GET]
+Rendering main/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-07-12 00:21:44) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-07-12 00:23:19) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-07-12 00:23:29) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
